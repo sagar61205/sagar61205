@@ -9,3 +9,4 @@
 - 😄 Pronouns: 'He/his/him'.
 - ⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<sagar61205>&theme=<dark>" />
