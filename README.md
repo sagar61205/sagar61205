@@ -1,4 +1,5 @@
-### Hi, I am Sagar Virmani.
+### Hi, I am Sagar Virmani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m currently working on a 'customer centric chatbot using DialoGPT'.
 - 🌱 I’m currently learning 'advanced NLP and computer vision'.
