@@ -1,14 +1,26 @@
 ### Hi, I am Sagar Virmani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I am experienced in programming in Python and providing business solutions using Machine learning, NLP and deep learning.
 
-- 🔭 I’m currently working on a 'customer centric chatbot using DialoGPT'.
-- 🌱 I’m currently learning 'advanced NLP and computer vision'.
-- 👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.
-- 💬 Ask me about 'data science , statistics, machine learning, SQL, deep learning and NLP'.
-- 📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani-965a7a41/)
-- 😄 Pronouns: 'He/his/him'.
-- ⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.
+As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sagar-virmani-965a7a41/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sagar_virmani)
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/) -->
+<!-- [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/) -->
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<ul>
+<li>🔭 I’m currently working on an internship project called 'Fixed Dose combination' and a 'customer centric chatbot using DialoGPT'.<br/>
+<li>🌱 I’m currently learning 'advanced NLP and computer vision'.<br/>
+<li>👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.<br/>
+<li>💬 Ask me about 'data science , statistics, machine learning, SQL, deep learning and NLP'.<br/>
+<li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani-965a7a41/)<br/>
+<li>😄 Pronouns: 'He/his/him'.<br/>
+<li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
+</ul>
 
 
 ## 🔧 Technologies & Tools
@@ -46,7 +58,10 @@
 
 
 
+📈 **My GitHub Stats:**
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar61205&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar61205&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar61205&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
