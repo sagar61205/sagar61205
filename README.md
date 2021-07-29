@@ -20,7 +20,7 @@ As a data scientist, I enjoy using my obsessive attention to detail, my unequivo
 <li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani-965a7a41/)<br/>
 <li>😄 Pronouns: 'He/his/him'.<br/>
 <li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
-<li>📝 [Resume]shorturl.at/jozDG). 
+<li>📝 [Resume](https://shorturl.at/jozDG). 
 </ul>
 
 
