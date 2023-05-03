@@ -2,7 +2,7 @@
 
 I am experienced in programming in Python and providing business solutions using Machine learning, NLP and deep learning.
 
-As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world and make a difference.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sagar-virmani/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sagar_virmani)
