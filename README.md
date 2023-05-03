@@ -1,6 +1,8 @@
 ### Hi, I am Sagar Virmani <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am experienced in programming in Python and providing business solutions using Machine learning, NLP and deep learning.
+Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
+
+I provide business solutions using Python, statistical analysis, Machine learning, NLP and deep learning.
 
 As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world and make a difference.
 
