@@ -2,7 +2,14 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
-I provide business solutions using Python, statistical analysis, Machine learning, NLP and deep learning.
+
+With more than 2 years of experience, I specialize in working with large and complex datasets to uncover patterns and insights that drive business growth. 
+I provide business solutions using Python, statistical analysis, machine learning, time-series forecasting, and deep learning.
+
+I collaborate with cross-functional teams to build predictive models that solve complex business problems.
+
+I am a data scientist who's always looking to push the boundaries of what's possible with data. 
+Whether it's experimenting with cutting-edge machine learning algorithms or exploring new data sources, I thrive on finding innovative solutions to business problems.
 
 As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world and make a difference.
 
