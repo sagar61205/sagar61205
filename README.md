@@ -18,7 +18,6 @@ As a data scientist, I enjoy using my obsessive attention to detail, my unequivo
 <li>👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.<br/>
 <li>💬 Ask me about 'data science , statistics, machine learning, SQL, deep learning and NLP'.<br/>
 <li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani-965a7a41/)<br/>
-<li>😄 Pronouns: 'He/his/him'.<br/>
 <li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
 <li>📝 [Resume](https://bit.ly/37oKabm). 
 </ul>
