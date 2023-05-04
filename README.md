@@ -2,11 +2,9 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
+With more than 2 years of experience, I specialize in working with large and complex datasets while collaborating with cross-functional teams to uncover patterns and insights, and build predictive models that drive business growth. 
 
-With more than 2 years of experience, I specialize in working with large and complex datasets to uncover patterns and insights that drive business growth. 
-I provide business solutions using Python, statistical analysis, machine learning, time-series forecasting, and deep learning.
-
-I collaborate with cross-functional teams to build predictive models that solve complex business problems.
+I provide business solutions by building end-to-end data science project pipelines using Python, statistical analysis, machine learning, time-series forecasting, and deep learning.
 
 I am a data scientist who's always looking to push the boundaries of what's possible with data. 
 Whether it's experimenting with cutting-edge machine learning algorithms or exploring new data sources, I thrive on finding innovative solutions to business problems.
@@ -24,8 +22,8 @@ As a data scientist, I enjoy using my obsessive attention to detail, my unequivo
 <ul>
 <li>🌱 I’m currently learning 'advanced NLP and computer vision'.<br/>
 <li>👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.<br/>
-<li>💬 Ask me about 'data science , statistics, machine learning, SQL, deep learning and NLP'.<br/>
-<li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani-965a7a41/)<br/>
+<li>💬 Ask me about 'data science, statistics, machine learning, SQL, deep learning and NLP'.<br/>
+<li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani)<br/>
 <li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
 <li>📝 [Resume](https://bit.ly/37oKabm). 
 </ul>
