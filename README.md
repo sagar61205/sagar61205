@@ -22,7 +22,6 @@ As a data scientist, I enjoy using my obsessive attention to detail, my unequivo
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 <ul>
-<li>🔭 I’m currently working on an internship project called 'Fixed Dose combination' and a 'customer centric chatbot using DialoGPT'.<br/>
 <li>🌱 I’m currently learning 'advanced NLP and computer vision'.<br/>
 <li>👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.<br/>
 <li>💬 Ask me about 'data science , statistics, machine learning, SQL, deep learning and NLP'.<br/>
