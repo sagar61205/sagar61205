@@ -2,7 +2,7 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
-With more than 2 years of experience, I specialize in working with large and complex datasets while collaborating with cross-functional teams to uncover patterns and insights, and build predictive models that drive business growth. 
+With around 3 years of experience in data science and more than 5 years of experience in muliple domains such as finance and IT, I specialize in working with large and complex datasets while collaborating with cross-functional teams to uncover patterns and insights, and build predictive models that drive business growth.
 
 I provide business solutions by building end-to-end data science project pipelines using Python, statistical analysis, machine learning, time-series forecasting, and deep learning.
 
