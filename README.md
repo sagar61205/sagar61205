@@ -25,7 +25,7 @@ As a data scientist, I enjoy using my obsessive attention to detail, my unequivo
 <li>💬 Ask me about 'data science, statistics, machine learning, SQL, deep learning and NLP'.<br/>
 <li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani)<br/>
 <li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
-<li>📝 [Resume](https://bit.ly/37oKabm). 
+<li>📝 [Resume](https://drive.google.com/file/d/10-Bj2fYOZFc3qtZceSzT0JkI-1w5OMKG/view?usp=sharing) 
 </ul>
 
 
