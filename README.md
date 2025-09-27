@@ -2,14 +2,11 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
-With around 3 years of experience in data science and more than 5 years of experience in muliple domains such as finance and IT, I specialize in working with large and complex datasets while collaborating with cross-functional teams to uncover patterns and insights, and build predictive models that drive business growth.
+Senior Data Scientist with 5 years of experience in analyzing data, finding patterns and trends, and building prediction models, plus over 6 years of total professional experience in finance, IT, and healthcare.
 
-I provide business solutions by building end-to-end data science project pipelines using Python, statistical analysis, machine learning, time-series forecasting, and deep learning.
+I am eager to bring my experience in handling large datasets, collaborating across teams and cultures, uncovering valuable business insights, and developing data‑driven tools that enhance decisions, efficiency, and growth.
 
-I am a data scientist who's always looking to push the boundaries of what's possible with data. 
-Whether it's experimenting with cutting-edge machine learning algorithms or exploring new data sources, I thrive on finding innovative solutions to business problems.
-
-As a data scientist, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world and make a difference.
+Primary stack: Python, SQL, Statistics & A/B‑Testing, Pandas, NumPy, Scikit‑learn, Keras, Time-Series Forecasting,  NLP,  Deep Learning, Data Visualization, MLOps, Cloud (GCP, AWS), IDE(Jupyter, VS Code, PyCharm)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sagar-virmani/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sagar_virmani)
