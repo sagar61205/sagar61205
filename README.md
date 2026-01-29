@@ -2,7 +2,7 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
-Senior Data Scientist with 5 years of experience in analyzing data, finding patterns and trends, and building prediction models, plus over 6 years of total professional experience in finance, IT, and healthcare.
+Senior Data Scientist with 5+ years of experience in analyzing data, finding patterns and trends, and building prediction models, plus over 6 years of total professional experience in finance, IT, and healthcare.
 
 I am eager to bring my experience in handling large datasets, collaborating across teams and cultures, uncovering valuable business insights, and developing data‑driven tools that enhance decisions, efficiency, and growth.
 
@@ -19,10 +19,9 @@ Primary stack: Python, SQL, Statistics & A/B‑Testing, Pandas, NumPy, Scikit‑
 <ul>
 <li>🌱 I’m currently learning 'advanced NLP and computer vision'.<br/>
 <li>👯 I’m looking to collaborate on 'Kaggle and topcoder.com'.<br/>
-<li>💬 Ask me about 'data science, statistics, machine learning, SQL, deep learning and NLP'.<br/>
+<li>💬 Ask me about 'data science, statistics, machine learning, SQL, deep learning, NLP and Gen AI'.<br/>
 <li>📫 How to reach me: [LinkedIn: @sagar_virmani](https://www.linkedin.com/in/sagar-virmani)<br/>
 <li>⚡ Fun fact: I am soon going to start a Youtube channel on data science and programming. I am a fitness lover and a salsa dancer.<br/>
-<li>📝 [Resume](https://drive.google.com/file/d/10-Bj2fYOZFc3qtZceSzT0JkI-1w5OMKG/view?usp=sharing) 
 </ul>
 
 
