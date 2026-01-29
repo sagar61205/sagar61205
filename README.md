@@ -2,6 +2,8 @@
 
 Data Scientist | Machine Learning and AI Practitioner | Business Insights Communicator | Problem Solver | Innovation Enabler
 
+I build Revenue-Generating AI Systems using data science & MLOps | Production-Grade, End-to-End AI Solutions
+
 Senior Data Scientist with 5+ years of experience in analyzing data, finding patterns and trends, and building prediction models, plus over 6 years of total professional experience in finance, IT, and healthcare.
 
 I am eager to bring my experience in handling large datasets, collaborating across teams and cultures, uncovering valuable business insights, and developing data‑driven tools that enhance decisions, efficiency, and growth.
