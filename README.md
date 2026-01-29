@@ -10,6 +10,8 @@ I am eager to bring my experience in handling large datasets, collaborating acro
 
 Primary stack: Python, SQL, Statistics & A/B‑Testing, Pandas, NumPy, Scikit‑learn, Keras, Time-Series Forecasting,  NLP,  Deep Learning, Data Visualization, MLOps, Cloud (GCP, AWS), IDE(Jupyter, VS Code, PyCharm)
 
+<h4><center><a heref = 'https://sagar61205.github.io/portfolio_2/'>Revenue based projects: Take a look at my portfolio</a></center></h4>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sagar-virmani/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sagar_virmani)
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
