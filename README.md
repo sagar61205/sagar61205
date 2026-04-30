@@ -55,8 +55,3 @@ Python, SQL, Scikit-learn, PyTorch, TensorFlow, Time-Series Modeling, Feature En
 
 <hr/>
 
-<h2>GitHub Stats</h2>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar61205&layout=compact"/>
-</p>
