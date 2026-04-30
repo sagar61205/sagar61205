@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Sagar Virmani</h1>
+<h1 align="left">Hi, I am Sagar Virmani</h1>
 
 <p>
 Senior Data Scientist | AI & MLOps | Production ML Systems
