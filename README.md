@@ -9,7 +9,7 @@ I build and deploy production-grade machine learning systems that drive measurab
 </p>
 
 <p>
-4.5 years of experience across finance, healthcare, and enterprise environments, with a focus on taking ML systems from experimentation to scalable production.
+5+ years of experience across finance, healthcare, and enterprise environments, with a focus on taking ML systems from experimentation to scalable production.
 </p>
 
 <p>
