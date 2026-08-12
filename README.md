@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I am Sagar Virmani</h1>
 
 <p>
-Senior Data Scientist | ML Engineer | GenAI & LLM Systems | GCP, Python, MLOps
+Senior Data Scientist | Gen AI Engineer | Data  Science · MLOps · LLMOps |  LangChain · LangGraph · RAG · Agentic AI
 </p>
 
 <p>
